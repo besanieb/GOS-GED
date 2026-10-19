@@ -1,0 +1,9 @@
+Release: v15
+Published site: https://gencys-command-center.secretelk8.chatgpt.site
+Source commit: 6d7d9b808858a4186500f166c1b5785dd379c9d8
+Export verified: 2026-10-19
+
+SHA-256 source-file checksums:
+ff328633f3366bb8cb6ed6b28b49dc11128f17063667c21a10045361a4e67a4c  index.html
+7374ad82da6a82ca488602ce99a7ec96334769a7f955a3fb773696de30b89d1b  styles.css
+0177dc0e90511ed09e391555fbd04a1b98bd0c4bad17f96261a6e94645ba8292  app.js
